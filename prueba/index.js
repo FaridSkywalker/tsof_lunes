@@ -1,3 +1,3 @@
 function prueba(){
-	console.log("Hola")
+	console.log("hola que pasa")
 }
